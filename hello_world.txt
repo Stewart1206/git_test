@@ -1,0 +1,1 @@
+This is a file that I have created in order to learn about vim and the staging process of git. 
